@@ -1,0 +1,4 @@
+data/fashion_mnist_test_labels.csv filter=lfs diff=lfs merge=lfs -text
+data/fashion_mnist_test_vectors.csv filter=lfs diff=lfs merge=lfs -text
+data/fashion_mnist_train_labels.csv filter=lfs diff=lfs merge=lfs -text
+data/fashion_mnist_train_vectors.csv filter=lfs diff=lfs merge=lfs -text
